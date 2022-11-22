@@ -1,0 +1,6 @@
+/node_modules
+/usr/lib/node_modules/npm/node_modules
+/usr/lib/node_modules/npm/node_modules/abbrev
+/usr/lib/node_modules/npm/node_modules/abbrev/LICENSE
+
+/package-lock.json
